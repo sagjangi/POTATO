@@ -37,26 +37,42 @@ class CfgWeapons {
             uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
         };
     };
-        class PLOT_ARMOR_V_BandollierB_ghex_F: V_PlateCarrier1_blk {
-    author = "SagJangi";
-    _generalMacro = "V_BandollierB_ghex_F";
-    displayName = "PLOT ARMOR Slash Bandolier (Green Hex)";
-    picture = "\A3\Characters_F_Exp\Data\UI\icon_V_BandollierB_ghex_F_CA.paa";
-    hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\OPFOR\Data\bandolier_ghex_co.paa"};
-    class ItemInfo: ItemInfo {
-        uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+    class PLOT_ARMOR_V_BandollierB_ghex_F: V_PlateCarrier1_blk {
+        author = "SagJangi";
+        _generalMacro = "V_BandollierB_ghex_F";
+        displayName = "PLOT ARMOR Slash Bandolier (Green Hex)";
+        picture = "\A3\Characters_F_Exp\Data\UI\icon_V_BandollierB_ghex_F_CA.paa";
+        hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\OPFOR\Data\bandolier_ghex_co.paa"};
+        class ItemInfo: ItemInfo {
+            uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+        };
     };
-};
-class PLOT_ARMOR_V_BandollierB_blk: V_PlateCarrier1_blk {
-    author = "SagJangi";
-    _generalMacro = "V_BandollierB_blk";
-    displayName = "PLOT ARMOR Slash Bandolier (Black)";
-    picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_blk_CA.paa";
-    hiddenSelectionsTextures[] = {"\A3\Characters_F\BLUFOR\Data\vests_blk_co.paa"};
-    class ItemInfo: ItemInfo {
-        uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+    class PLOT_ARMOR_V_BandollierB_blk: V_PlateCarrier1_blk {
+        author = "SagJangi";
+        _generalMacro = "V_BandollierB_blk";
+        displayName = "PLOT ARMOR Slash Bandolier (Black)";
+        picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_blk_CA.paa";
+        hiddenSelectionsTextures[] = {"\A3\Characters_F\BLUFOR\Data\vests_blk_co.paa"};
+        class ItemInfo: ItemInfo {
+            uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+        };
     };
-};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class PLOT_ARMOR_V_BandollierB_cbr: V_PlateCarrier1_blk {
     author = "SagJangi";
     _generalMacro = "V_BandollierB_cbr";
@@ -609,33 +625,14 @@ class PLOT_ARMOR_H_MilCap_ghex_F: H_HelmetB {
     };
 };
 
-class PLOT_ARMOR_H_MilCap_tna_F: H_HelmetB {
-    author = "SagJangi";
-    _generalMacro = "H_MilCap_tna_F";
-    displayName = "PLOT ARMOR Military Cap (Tropic)";
-    picture = "\A3\Characters_F_Exp\Data\UI\icon_H_MilCap_tna_F_CA.paa";
-    hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\BLUFOR\Data\camo_tna_co.paa"};
-    class ItemInfo: ItemInfo {
-        uniformModel = "\A3\Characters_F\Common\headgear_cap_mil.p3d";
+    class PLOT_ARMOR_H_MilCap_tna_F: H_HelmetB {
+        author = "SagJangi";
+        _generalMacro = "H_MilCap_tna_F";
+        displayName = "PLOT ARMOR Military Cap (Tropic)";
+        picture = "\A3\Characters_F_Exp\Data\UI\icon_H_MilCap_tna_F_CA.paa";
+        hiddenSelectionsTextures[] = {"\A3\Characters_F_Exp\BLUFOR\Data\camo_tna_co.paa"};
+        class ItemInfo: ItemInfo {
+            uniformModel = "\A3\Characters_F\Common\headgear_cap_mil.p3d";
+        };
     };
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 };
