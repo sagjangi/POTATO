@@ -57,42 +57,48 @@ class CfgWeapons {
             uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
         };
     };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-class PLOT_ARMOR_V_BandollierB_cbr: V_PlateCarrier1_blk {
-    author = "SagJangi";
-    _generalMacro = "V_BandollierB_cbr";
-    displayName = "PLOT ARMOR Slash Bandolier (Coyote)";
-    picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_cbr_CA.paa";
-    hiddenSelectionsTextures[] = {"\A3\Characters_F\BLUFOR\Data\vests_cbr_co.paa"};
-    class ItemInfo: ItemInfo {
-        uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+    class PLOT_ARMOR_V_BandollierB_cbr: V_PlateCarrier1_blk {
+        author = "SagJangi";
+        _generalMacro = "V_BandollierB_cbr";
+        displayName = "PLOT ARMOR Slash Bandolier (Coyote)";
+        picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_cbr_CA.paa";
+        hiddenSelectionsTextures[] = {"\A3\Characters_F\BLUFOR\Data\vests_cbr_co.paa"};
+        class ItemInfo: ItemInfo {
+            uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+        };
     };
-};
-class PLOT_ARMOR_V_BandollierB_khk: V_PlateCarrier1_blk {
-    author = "SagJangi";
-    _generalMacro = "V_BandollierB_khk";
-    displayName = "PLOT ARMOR Slash Bandolier (Khaki)";
-    picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_khk_CA.paa";
-    hiddenSelectionsTextures[] = {"\A3\Characters_F\BLUFOR\Data\vests_khk_co.paa"};
-    class ItemInfo: ItemInfo {
-        uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+    class PLOT_ARMOR_V_BandollierB_khk: V_PlateCarrier1_blk {
+        author = "SagJangi";
+        _generalMacro = "V_BandollierB_khk";
+        displayName = "PLOT ARMOR Slash Bandolier (Khaki)";
+        picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_khk_CA.paa";
+        hiddenSelectionsTextures[] = {"\A3\Characters_F\BLUFOR\Data\vests_khk_co.paa"};
+        class ItemInfo: ItemInfo {
+            uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
+        };
     };
-};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class PLOT_ARMOR_V_BandollierB_oli: V_PlateCarrier1_blk {
     author = "SagJangi";
     _generalMacro = "V_BandollierB_oli";
@@ -103,17 +109,6 @@ class PLOT_ARMOR_V_BandollierB_oli: V_PlateCarrier1_blk {
         uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
     };
 };	
-
-
-
-
-
-
-
-
-
-
-
     class PLOT_ARMOR_V_TacChestrig_grn_F: V_PlateCarrier1_blk {
         author = "SagJangi";
         _generalMacro = "V_TacChestrig_grn_F";
@@ -144,10 +139,6 @@ class PLOT_ARMOR_V_TacChestrig_oli_F: V_PlateCarrier1_blk {
         uniformModel = "\A3\Characters_F_Exp\Civil\equip_t_chestrig_01.p3d";
     };
 };
-
-
-
-
     class PLOT_ARMOR_V_Chestrig: V_PlateCarrier1_blk {
         author = "SagJangi";
         _generalMacro = "V_Chestrig_rgr";
@@ -158,16 +149,6 @@ class PLOT_ARMOR_V_TacChestrig_oli_F: V_PlateCarrier1_blk {
             uniformModel = "\A3\Characters_F\Common\equip_chestrig.p3d";
         };
     };
-
-
-
-
-
-
-
-
-
-
         class PLOT_ARMOR_V_Chestrig_blk: V_PlateCarrier1_blk {
     author = "SagJangi";
     _generalMacro = "V_Chestrig_blk";
@@ -198,12 +179,6 @@ class PLOT_ARMOR_V_Chestrig_oli: V_PlateCarrier1_blk {
         uniformModel = "\A3\Characters_F\Common\equip_chestrig.p3d";
     };
 };
-
-
-
-
-
-
     class PLOT_ARMOR_V_HarnessO_brn: V_PlateCarrier1_blk {
         author = "SagJangi";
         _generalMacro = "V_HarnessO_brn";
@@ -277,15 +252,6 @@ class PLOT_ARMOR_V_HarnessO_ghex_F: V_PlateCarrier1_blk {
         uniformModel = "\A3\Characters_F\OPFOR\equip_o_vest01.p3d";
     };
 };
-
-
-
-
-
-
-
-
-
     class H_HelmetB;
     class H_HelmetIA: H_HelmetB {
         class ItemInfo;
