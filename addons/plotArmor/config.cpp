@@ -405,10 +405,10 @@ class PLOT_ARMOR_V_HarnessO_ghex_F: V_PlateCarrier1_blk {
             uniformModel = "\A3\Characters_F_Bootcamp\Guerrilla\g_balaclava_clean.p3d";
         };
     };
-            class PLOT_ARMOR_H_Cap_headphones: H_HelmetB {
+    class PLOT_ARMOR_H_Cap_headphones: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Cap_headphones";
-    displayName = "PLOT ARMOR Cap (Headphones)";
+    displayName = "PLOT ARMOR Rangemaster Cap";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_headphones_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Data\cap_headphones_co.paa"};
     class ItemInfo: ItemInfo {
@@ -452,7 +452,7 @@ class PLOT_ARMOR_H_Bandanna_khk_hs: H_HelmetB {
 class PLOT_ARMOR_H_Watchcap_blk: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Watchcap_blk";
-    displayName = "PLOT ARMOR Watchcap (Headset)";
+    displayName = "PLOT ARMOR Beanie (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Watchcap_blk_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Data\woolhat_v2_blk_co.paa"};
     class ItemInfo: ItemInfo {
@@ -507,7 +507,7 @@ class PLOT_ARMOR_H_Cap_usblack: H_HelmetB {
 class PLOT_ARMOR_H_Cap_tan_specops_US: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Cap_tan_specops_US";
-    displayName = "PLOT ARMOR Cap (Tan US)";
+    displayName = "PLOT ARMOR Cap (US MTP)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_tan_specops_US_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Data\cap_tan_specops_us_co.paa"};
     class ItemInfo: ItemInfo {
