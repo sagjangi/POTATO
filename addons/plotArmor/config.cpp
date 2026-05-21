@@ -5,58 +5,7 @@ class CfgPatches {
         author = "SagJangi";
         authorUrl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2075156290";
         units[] = {};
-        weapons[] = {"PLOT_ARMOR_V_Pockets_F",
-
-
-
-"PLOT_ARMOR_V_BandollierB",
-			"PLOT_ARMOR_V_BandollierB_ghex_F",
-            "PLOT_ARMOR_V_BandollierB_blk",
-            "PLOT_ARMOR_V_BandollierB_cbr",
-            "PLOT_ARMOR_V_BandollierB_khk",
-            "PLOT_ARMOR_V_BandollierB_oli",
-
-
-"PLOT_ARMOR_V_TacChestrig_grn_F",
-            "PLOT_ARMOR_V_TacChestrig_cbr_F",
-            "PLOT_ARMOR_V_TacChestrig_oli_F",
-
-"PLOT_ARMOR_V_Chestrig",
-            "PLOT_ARMOR_V_Chestrig_blk",
-            "PLOT_ARMOR_V_Chestrig_khk",
-            "PLOT_ARMOR_V_Chestrig_oli",
-
-"PLOT_ARMOR_V_HarnessO_brn","PLOT_ARMOR_V_HarnessOGL_brn",
-            "PLOT_ARMOR_V_HarnessOGL_gry",
-            "PLOT_ARMOR_V_HarnessO_gry",
-            "PLOT_ARMOR_V_HarnessOGL_ghex_F",
-            "PLOT_ARMOR_V_HarnessO_ghex_F",
-
-
-"PLOT_ARMOR_H_No_Hat","PLOT_ARMOR_H_Cap_oli","PLOT_ARMOR_H_Cap_tan","PLOT_ARMOR_H_Cap_grn","PLOT_ARMOR_H_Bandanna_cbr","PLOT_ARMOR_H_Bandanna_khk","PLOT_ARMOR_H_Bandanna_sand","PLOT_ARMOR_H_Booniehat_khk","PLOT_ARMOR_H_Booniehat_oli","PLOT_ARMOR_H_Booniehat_tan","PLOT_ARMOR_H_Shemag_olive","PLOT_ARMOR_H_ShemagOpen_khk","PLOT_ARMOR_H_ShemagOpen_tan","PLOT_ARMOR_H_3holeBalaclava"
-
-
-            "PLOT_ARMOR_H_Cap_headphones",
-            "PLOT_ARMOR_H_Cap_oli_hs",
-            "PLOT_ARMOR_H_Booniehat_khk_hs",
-            "PLOT_ARMOR_H_Bandanna_khk_hs",
-            "PLOT_ARMOR_H_Watchcap_blk",
-            "PLOT_ARMOR_H_Shemag_olive_hs",
-            "PLOT_ARMOR_H_Cap_brn_SPECOPS",
-            "PLOT_ARMOR_H_Cap_police",
-            "PLOT_ARMOR_H_Cap_usblack",
-            "PLOT_ARMOR_H_Cap_tan_specops_US",
-            "PLOT_ARMOR_H_Cap_blk_Raven",
-            "PLOT_ARMOR_H_Booniehat_dgtl",
-            "PLOT_ARMOR_H_Booniehat_mcamo",
-            "PLOT_ARMOR_H_Bandanna_mcamo",
-            "PLOT_ARMOR_H_MilCap_blue",
-            "PLOT_ARMOR_H_MilCap_gry",
-            "PLOT_ARMOR_H_MilCap_mcamo",
-            "PLOT_ARMOR_H_MilCap_dgtl",
-            "PLOT_ARMOR_H_MilCap_gen_F",
-            "PLOT_ARMOR_H_MilCap_ghex_F",
-            "PLOT_ARMOR_H_MilCap_tna_F"};
+        weapons[] = {"PLOT_ARMOR_V_Pockets_F","PLOT_ARMOR_V_BandollierB","PLOT_ARMOR_V_BandollierB_ghex_F","PLOT_ARMOR_V_BandollierB_blk","PLOT_ARMOR_V_BandollierB_cbr","PLOT_ARMOR_V_BandollierB_khk","PLOT_ARMOR_V_BandollierB_oli","PLOT_ARMOR_V_TacChestrig_grn_F","PLOT_ARMOR_V_TacChestrig_cbr_F","PLOT_ARMOR_V_TacChestrig_oli_F","PLOT_ARMOR_V_Chestrig","PLOT_ARMOR_V_Chestrig_blk","PLOT_ARMOR_V_Chestrig_khk","PLOT_ARMOR_V_Chestrig_oli","PLOT_ARMOR_V_HarnessO_brn","PLOT_ARMOR_V_HarnessOGL_brn","PLOT_ARMOR_V_HarnessOGL_gry","PLOT_ARMOR_V_HarnessO_gry","PLOT_ARMOR_V_HarnessOGL_ghex_F","PLOT_ARMOR_V_HarnessO_ghex_F","PLOT_ARMOR_H_No_Hat","PLOT_ARMOR_H_Cap_oli","PLOT_ARMOR_H_Cap_tan","PLOT_ARMOR_H_Cap_grn","PLOT_ARMOR_H_Bandanna_cbr","PLOT_ARMOR_H_Bandanna_khk","PLOT_ARMOR_H_Bandanna_sand","PLOT_ARMOR_H_Booniehat_khk","PLOT_ARMOR_H_Booniehat_oli","PLOT_ARMOR_H_Booniehat_tan","PLOT_ARMOR_H_Shemag_olive","PLOT_ARMOR_H_ShemagOpen_khk","PLOT_ARMOR_H_ShemagOpen_tan","PLOT_ARMOR_H_3holeBalaclava","PLOT_ARMOR_H_Cap_headphones","PLOT_ARMOR_H_Cap_oli_hs","PLOT_ARMOR_H_Booniehat_khk_hs","PLOT_ARMOR_H_Bandanna_khk_hs","PLOT_ARMOR_H_Watchcap_blk","PLOT_ARMOR_H_Shemag_olive_hs","PLOT_ARMOR_H_Cap_brn_SPECOPS","PLOT_ARMOR_H_Cap_police","PLOT_ARMOR_H_Cap_usblack","PLOT_ARMOR_H_Cap_tan_specops_US","PLOT_ARMOR_H_Cap_blk_Raven","PLOT_ARMOR_H_Booniehat_dgtl","PLOT_ARMOR_H_Booniehat_mcamo","PLOT_ARMOR_H_Bandanna_mcamo","PLOT_ARMOR_H_MilCap_blue","PLOT_ARMOR_H_MilCap_gry","PLOT_ARMOR_H_MilCap_mcamo","PLOT_ARMOR_H_MilCap_dgtl","PLOT_ARMOR_H_MilCap_gen_F","PLOT_ARMOR_H_MilCap_ghex_F","PLOT_ARMOR_H_MilCap_tna_F"};
         requiredAddons[] = {"potato_core"};
         VERSION_CONFIG;
     };
@@ -498,7 +447,7 @@ class PLOT_ARMOR_H_Watchcap_blk: H_HelmetB {
 class PLOT_ARMOR_H_Shemag_olive_hs: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Shemag_olive_hs";
-    displayName = "PLOT ARMOR Shemag (Olive, Headset)";
+    displayName = "PLOT ARMOR Shemag (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Shemag_olive_hs_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Civil\Data\shemag_olive_co.paa"};
     class ItemInfo: ItemInfo {
@@ -509,7 +458,7 @@ class PLOT_ARMOR_H_Shemag_olive_hs: H_HelmetB {
 class PLOT_ARMOR_H_Cap_brn_SPECOPS: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Cap_brn_SPECOPS";
-    displayName = "PLOT ARMOR Cap (Brown Specops)";
+    displayName = "PLOT ARMOR Cap (Hex)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_brn_SPECOPS_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Data\cap_brn_specops_co.paa"};
     class ItemInfo: ItemInfo {
@@ -542,7 +491,7 @@ class PLOT_ARMOR_H_Cap_usblack: H_HelmetB {
 class PLOT_ARMOR_H_Cap_tan_specops_US: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Cap_tan_specops_US";
-    displayName = "PLOT ARMOR Cap (Tan Specops US)";
+    displayName = "PLOT ARMOR Cap (Tan US)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_tan_specops_US_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Data\cap_tan_specops_us_co.paa"};
     class ItemInfo: ItemInfo {
@@ -553,7 +502,7 @@ class PLOT_ARMOR_H_Cap_tan_specops_US: H_HelmetB {
 class PLOT_ARMOR_H_Cap_blk_Raven: H_HelmetB {
     author = "SagJangi";
     _generalMacro = "H_Cap_blk_Raven";
-    displayName = "PLOT ARMOR Cap (Black Raven)";
+    displayName = "PLOT ARMOR Cap (Digitial)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_blk_Raven_CA.paa";
     hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Data\cap_blk_raven_co.paa"};
     class ItemInfo: ItemInfo {
