@@ -38,7 +38,7 @@ class CfgWeapons {
         };
     };
     class PLOT_ARMOR_V_BandollierB_ghex_F: V_PlateCarrier1_blk {
-        author = "SagJangi";
+        author = "SagJangi and Gemini AI";
         _generalMacro = "V_BandollierB_ghex_F";
         displayName = "PLOT ARMOR Slash Bandolier (Green Hex)";
         picture = "\A3\Characters_F_Exp\Data\UI\icon_V_BandollierB_ghex_F_CA.paa";
@@ -48,7 +48,7 @@ class CfgWeapons {
         };
     };
     class PLOT_ARMOR_V_BandollierB_blk: V_PlateCarrier1_blk {
-        author = "SagJangi";
+        author = "SagJangi and Gemini AI";
         _generalMacro = "V_BandollierB_blk";
         displayName = "PLOT ARMOR Slash Bandolier (Black)";
         picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_blk_CA.paa";
@@ -58,7 +58,7 @@ class CfgWeapons {
         };
     };
     class PLOT_ARMOR_V_BandollierB_cbr: V_PlateCarrier1_blk {
-        author = "SagJangi";
+        author = "SagJangi and Gemini AI";
         _generalMacro = "V_BandollierB_cbr";
         displayName = "PLOT ARMOR Slash Bandolier (Coyote)";
         picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_cbr_CA.paa";
@@ -68,7 +68,7 @@ class CfgWeapons {
         };
     };
     class PLOT_ARMOR_V_BandollierB_khk: V_PlateCarrier1_blk {
-        author = "SagJangi";
+        author = "SagJangi and Gemini AI";
         _generalMacro = "V_BandollierB_khk";
         displayName = "PLOT ARMOR Slash Bandolier (Khaki)";
         picture = "\A3\Characters_F\Data\UI\icon_V_BandollierB_khk_CA.paa";
@@ -100,7 +100,7 @@ class CfgWeapons {
 
 
 class PLOT_ARMOR_V_BandollierB_oli: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_BandollierB_oli";
     displayName = "PLOT ARMOR Slash Bandolier (Olive)";
     picture = "\A3\Characters_F_Beta\Data\ui\icon_V_Bandolier_oli_ca.paa";
@@ -120,7 +120,7 @@ class PLOT_ARMOR_V_BandollierB_oli: V_PlateCarrier1_blk {
         };
     };
     class PLOT_ARMOR_V_TacChestrig_cbr_F: V_PlateCarrier1_blk {
-        author = "SagJangi";
+        author = "SagJangi and Gemini AI";
         _generalMacro = "V_TacChestrig_cbr_F";
         displayName = "PLOT ARMOR Tactical Chest Rig (Coyote)";
         picture = "\A3\Characters_F_Exp\Data\UI\icon_V_TacChestrig_cbr_F_CA.paa";
@@ -130,7 +130,7 @@ class PLOT_ARMOR_V_BandollierB_oli: V_PlateCarrier1_blk {
         };
     };
 class PLOT_ARMOR_V_TacChestrig_oli_F: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_TacChestrig_oli_F";
     displayName = "PLOT ARMOR Tactical Chest Rig (Olive)";
     picture = "\A3\Characters_F_Exp\Data\UI\icon_V_TacChestrig_oli_F_CA.paa";
@@ -150,7 +150,7 @@ class PLOT_ARMOR_V_TacChestrig_oli_F: V_PlateCarrier1_blk {
         };
     };
         class PLOT_ARMOR_V_Chestrig_blk: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_Chestrig_blk";
     displayName = "PLOT ARMOR Chest Rig (Black)";
     picture = "\A3\Characters_F\Data\UI\icon_V_Chestrig_blk_CA.paa";
@@ -160,7 +160,7 @@ class PLOT_ARMOR_V_TacChestrig_oli_F: V_PlateCarrier1_blk {
     };
 };
 class PLOT_ARMOR_V_Chestrig_khk: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_Chestrig_khk";
     displayName = "PLOT ARMOR Chest Rig (Khaki)";
     picture = "\A3\Characters_F\Data\UI\icon_V_Chestrig_khk_CA.paa";
@@ -170,7 +170,7 @@ class PLOT_ARMOR_V_Chestrig_khk: V_PlateCarrier1_blk {
     };
 };
 class PLOT_ARMOR_V_Chestrig_oli: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_Chestrig_oli";
     displayName = "PLOT ARMOR Chest Rig (Olive)";
     picture = "\A3\Characters_F\Data\UI\icon_V_Chestrig_oli_CA.paa";
@@ -198,7 +198,7 @@ class PLOT_ARMOR_V_Chestrig_oli: V_PlateCarrier1_blk {
         };
     };
     class PLOT_ARMOR_V_HarnessOGL_gry: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_HarnessOGL_gry";
     displayName = "PLOT ARMOR LBV Harness OGL (Grey)";
     picture = "\A3\Characters_F\Data\UI\icon_V_HarnessOGL_gry_CA.paa";
@@ -212,7 +212,7 @@ class PLOT_ARMOR_V_Chestrig_oli: V_PlateCarrier1_blk {
 };
 
 class PLOT_ARMOR_V_HarnessO_gry: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_HarnessO_gry";
     displayName = "PLOT ARMOR LBV Harness (Grey)";
     picture = "\A3\Characters_F\Data\UI\icon_V_HarnessO_gry_CA.paa";
@@ -226,7 +226,7 @@ class PLOT_ARMOR_V_HarnessO_gry: V_PlateCarrier1_blk {
 };
 
 class PLOT_ARMOR_V_HarnessOGL_ghex_F: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_HarnessOGL_ghex_F";
     displayName = "PLOT ARMOR LBV Harness OGL (Green Hex)";
     picture = "\A3\Characters_F_Exp\Data\UI\icon_V_HarnessOGL_ghex_F_CA.paa";
@@ -240,7 +240,7 @@ class PLOT_ARMOR_V_HarnessOGL_ghex_F: V_PlateCarrier1_blk {
 };
 
 class PLOT_ARMOR_V_HarnessO_ghex_F: V_PlateCarrier1_blk {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "V_HarnessO_ghex_F";
     displayName = "PLOT ARMOR LBV Harness (Green Hex)";
     picture = "\A3\Characters_F_Exp\Data\UI\icon_V_HarnessO_ghex_F_CA.paa";
@@ -372,7 +372,7 @@ class PLOT_ARMOR_V_HarnessO_ghex_F: V_PlateCarrier1_blk {
         };
     };
     class PLOT_ARMOR_H_Cap_headphones: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_headphones";
     displayName = "PLOT ARMOR Rangemaster Cap";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_headphones_CA.paa";
@@ -383,7 +383,7 @@ class PLOT_ARMOR_V_HarnessO_ghex_F: V_PlateCarrier1_blk {
 };
 
 class PLOT_ARMOR_H_Cap_oli_hs: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_oli_hs";
     displayName = "PLOT ARMOR Cap (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_oli_hs_CA.paa";
@@ -394,7 +394,7 @@ class PLOT_ARMOR_H_Cap_oli_hs: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Booniehat_khk_hs: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Booniehat_khk_hs";
     displayName = "PLOT ARMOR Booniehat (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Booniehat_khk_hs_CA.paa";
@@ -405,7 +405,7 @@ class PLOT_ARMOR_H_Booniehat_khk_hs: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Bandanna_khk_hs: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Bandanna_khk_hs";
     displayName = "PLOT ARMOR Bandana (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Bandanna_khk_hs_CA.paa";
@@ -416,7 +416,7 @@ class PLOT_ARMOR_H_Bandanna_khk_hs: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Watchcap_blk: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Watchcap_blk";
     displayName = "PLOT ARMOR Beanie (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Watchcap_blk_CA.paa";
@@ -427,7 +427,7 @@ class PLOT_ARMOR_H_Watchcap_blk: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Shemag_olive_hs: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Shemag_olive_hs";
     displayName = "PLOT ARMOR Shemag (Headset)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Shemag_olive_hs_CA.paa";
@@ -438,7 +438,7 @@ class PLOT_ARMOR_H_Shemag_olive_hs: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Cap_brn_SPECOPS: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_brn_SPECOPS";
     displayName = "PLOT ARMOR Cap (Hex)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_brn_SPECOPS_CA.paa";
@@ -449,7 +449,7 @@ class PLOT_ARMOR_H_Cap_brn_SPECOPS: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Cap_police: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_police";
     displayName = "PLOT ARMOR Cap (Police)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_Police_CA.paa";
@@ -460,7 +460,7 @@ class PLOT_ARMOR_H_Cap_police: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Cap_usblack: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_usblack";
     displayName = "PLOT ARMOR Cap (US Black)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_usblack_CA.paa";
@@ -471,7 +471,7 @@ class PLOT_ARMOR_H_Cap_usblack: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Cap_tan_specops_US: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_tan_specops_US";
     displayName = "PLOT ARMOR Cap (US MTP)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_tan_specops_US_CA.paa";
@@ -482,7 +482,7 @@ class PLOT_ARMOR_H_Cap_tan_specops_US: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Cap_blk_Raven: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Cap_blk_Raven";
     displayName = "PLOT ARMOR Cap (Digitial)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Cap_blk_Raven_CA.paa";
@@ -493,7 +493,7 @@ class PLOT_ARMOR_H_Cap_blk_Raven: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Booniehat_dgtl: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Booniehat_dgtl";
     displayName = "PLOT ARMOR Booniehat (Digital)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Booniehat_dgtl_CA.paa";
@@ -504,7 +504,7 @@ class PLOT_ARMOR_H_Booniehat_dgtl: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Booniehat_mcamo: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Booniehat_mcamo";
     displayName = "PLOT ARMOR Booniehat (MTP)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Booniehat_mcamo_CA.paa";
@@ -515,7 +515,7 @@ class PLOT_ARMOR_H_Booniehat_mcamo: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_Bandanna_mcamo: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_Bandanna_mcamo";
     displayName = "PLOT ARMOR Bandana (MTP)";
     picture = "\A3\Characters_F\Data\UI\icon_H_Bandanna_mcamo_CA.paa";
@@ -526,7 +526,7 @@ class PLOT_ARMOR_H_Bandanna_mcamo: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_MilCap_blue: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_MilCap_blue";
     displayName = "PLOT ARMOR Military Cap (Blue)";
     picture = "\A3\Characters_F\Data\UI\icon_H_MilCap_blue_CA.paa";
@@ -537,7 +537,7 @@ class PLOT_ARMOR_H_MilCap_blue: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_MilCap_gry: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_MilCap_gry";
     displayName = "PLOT ARMOR Military Cap (Grey)";
     picture = "\A3\Characters_F\Data\UI\icon_H_MilCap_gry_CA.paa";
@@ -548,7 +548,7 @@ class PLOT_ARMOR_H_MilCap_gry: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_MilCap_mcamo: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_MilCap_mcamo";
     displayName = "PLOT ARMOR Military Cap (MTP)";
     picture = "\A3\Characters_F\Data\UI\icon_H_MilCap_mcamo_CA.paa";
@@ -559,7 +559,7 @@ class PLOT_ARMOR_H_MilCap_mcamo: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_MilCap_dgtl: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_MilCap_dgtl";
     displayName = "PLOT ARMOR Military Cap (Digital)";
     picture = "\A3\Characters_F\Data\UI\icon_H_MilCap_dgtl_CA.paa";
@@ -570,7 +570,7 @@ class PLOT_ARMOR_H_MilCap_dgtl: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_MilCap_gen_F: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_MilCap_gen_F";
     displayName = "PLOT ARMOR Military Cap (Gendarmerie)";
     picture = "\A3\Characters_F_Exp\Data\UI\icon_H_MilCap_gen_F_CA.paa";
@@ -581,7 +581,7 @@ class PLOT_ARMOR_H_MilCap_gen_F: H_HelmetB {
 };
 
 class PLOT_ARMOR_H_MilCap_ghex_F: H_HelmetB {
-    author = "SagJangi";
+    author = "SagJangi and Gemini AI";
     _generalMacro = "H_MilCap_ghex_F";
     displayName = "PLOT ARMOR Military Cap (Green Hex)";
     picture = "\A3\Characters_F_Exp\Data\UI\icon_H_MilCap_ghex_F_CA.paa";
@@ -592,7 +592,7 @@ class PLOT_ARMOR_H_MilCap_ghex_F: H_HelmetB {
 };
 
     class PLOT_ARMOR_H_MilCap_tna_F: H_HelmetB {
-        author = "SagJangi";
+        author = "SagJangi and Gemini AI";
         _generalMacro = "H_MilCap_tna_F";
         displayName = "PLOT ARMOR Military Cap (Tropic)";
         picture = "\A3\Characters_F_Exp\Data\UI\icon_H_MilCap_tna_F_CA.paa";
